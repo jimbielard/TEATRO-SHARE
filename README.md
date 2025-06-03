@@ -38,4 +38,4 @@ npm run dev
 - `/pages` - Páginas de la aplicación
 - `/models` - Modelos de datos
 - `/utils` - Utilidades y helpers
-- `/public` - Archivos estáticos 
+- `/public` - Archivos estáticos
